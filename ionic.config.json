@@ -1,0 +1,8 @@
+{
+  "name": "ffMobileApp",
+  "app_id": "85359647",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
